@@ -3,8 +3,8 @@ Um sistema de navegação de robôs autônomos registra os movimentos realizados
 
 N → Norte/br
 S → Sul/br
-L → Leste/br
-O → Oeste/br
+L → Leste<br>
+O → Oeste<br>
 
 <img width="374" height="251" alt="image" src="https://github.com/user-attachments/assets/d762389d-3305-4d50-a279-a0f1f121a1b1" />
 
@@ -15,8 +15,8 @@ Um caminho é considerado válido (retorna à origem) quando, após considerar t
 Exemplo:
 
  
-Entrada: N S L O → válido/br
-Entrada: N N S → inválido/br
-Entrada: N N S S → válido/nr
-Entrada: L S L S O S L L O O N L N O N O →  ??/br
+Entrada: N S L O → válido<br>
+Entrada: N N S → inválido<br>
+Entrada: N N S S → válido<br>
+Entrada: L S L S O S L L O O N L N O N O →  ??<br>
 
