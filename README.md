@@ -1,8 +1,8 @@
 # VALIDA-O-DE-CAMINHO-LABIRINTO-
 Um sistema de navegação de robôs autônomos registra os movimentos realizados dentro de um labirinto, por meio de uma sequência de caracteres, como forma de conhecer o ambiente. Cada caractere representa um movimento em uma direção:
 
-N → Norte/br
-S → Sul/br
+N → Norte<br>
+S → Sul<br>
 L → Leste<br>
 O → Oeste<br>
 
