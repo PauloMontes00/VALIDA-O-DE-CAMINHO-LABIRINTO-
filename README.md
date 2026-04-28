@@ -1,10 +1,10 @@
 # VALIDA-O-DE-CAMINHO-LABIRINTO-
 Um sistema de navegação de robôs autônomos registra os movimentos realizados dentro de um labirinto, por meio de uma sequência de caracteres, como forma de conhecer o ambiente. Cada caractere representa um movimento em uma direção:
 
-N → Norte
-S → Sul
-L → Leste
-O → Oeste
+N → Norte/br
+S → Sul/br
+L → Leste/br
+O → Oeste/br
 
 <img width="374" height="251" alt="image" src="https://github.com/user-attachments/assets/d762389d-3305-4d50-a279-a0f1f121a1b1" />
 
@@ -15,8 +15,8 @@ Um caminho é considerado válido (retorna à origem) quando, após considerar t
 Exemplo:
 
  
-Entrada: N S L O → válido
-Entrada: N N S → inválido
-Entrada: N N S S → válido
-Entrada: L S L S O S L L O O N L N O N O →  ??
+Entrada: N S L O → válido/br
+Entrada: N N S → inválido/br
+Entrada: N N S S → válido/nr
+Entrada: L S L S O S L L O O N L N O N O →  ??/br
 
